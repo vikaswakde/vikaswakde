@@ -2,8 +2,12 @@
 Welcome to my little world. 	  
 
 🌱   
-I’m currently learning full stack development.   
-I'm also diving deep in Data-Science and AI/ML
+- I’m currently learning <strong>Full Stack Development</strong> 💻  
+- I love to solve problems in Open-Source projects
+- I am here to build great things and make a positive contribution to our community
+- I'm also diving deep in <strong>Data-Science</strong> and <strong>AI/ML</strong> 🤖
+
+- ! [ image title ] ( https://github-readme-stats.vercel.app/api ?username=vikaswakde)
 <!--
 **vikaswakde/vikaswakde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

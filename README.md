@@ -24,8 +24,8 @@ Welcome to my little world!
 
 ## Projects
 
-- 🌤️ [Live Weather App](https://github.com/vikaswakde/live-weather-app) - Description of the project
-- 🔒 [Password Score Check](https://github.com/vikaswakde/live-weather-app) - Description of the project
+- 🌤️ [Live Weather App](https://github.com/vikaswakde/live-weather-app) - Uses Live API From Open-Weather, use it to check weather in your Area!
+- 🔒 [Password Score Check](https://github.com/vikaswakde/live-weather-app) - Uses simple Regular Expressions to check, how strong is security of your Password!
 
 ## GitHub Stats
 

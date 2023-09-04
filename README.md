@@ -25,8 +25,8 @@ Welcome to my little world!
 ## Projects
 
 - 🎬 [Sasta Netflix](https://vikaswakde.github.io/Sasta-Netflix/) - Browse top movies, watch the trailer enjoy!
-- 🌤️ [Live Weather App](https://github.com/vikaswakde/live-weather-app) - Uses Live API From Open-Weather, use it to check weather in your Area!
-- 🔒 [Password Score Check](https://github.com/vikaswakde/live-weather-app) - Uses simple Regular Expressions to check, how strong is security of your Password!
+- 🌤️ [Live Weather App](https://github.com/vikaswakde/live-weather-app) - Uses Live API From Open-Weather, use it to check the weather in your Area!
+- 🔒 [Password Score Check](https://github.com/vikaswakde/password-score-check) - Uses simple Regular Expressions to check, how strong is security of your Password!
 
 ## GitHub Stats
 

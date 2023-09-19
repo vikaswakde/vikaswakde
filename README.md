@@ -16,16 +16,19 @@ Welcome to my little world!
 ## Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-Expert-orange?style=flat-square&logo=html5" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-Expert-blue?style=flat-square&logo=css3" alt="CSS">
+  <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square&logo=javascript" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-Learning-brightgreen?style=flat-square&logo=python" alt="Python">
+    <img src="https://img.shields.io/badge/Flask-Learning-brightgreen?style=flat-square&logo=flask" alt="Flask">
+  
+  
 </p>
 
 ## Projects
 
-- 🎹  [Password Score Check](https://github.com/vikaswakde/Piano-FCC) - Simple Piano Design as FreecodeCamp project
-- 🎹  [Password Score Check](https://github.com/vikaswakde/password-score-check) - Simple Piano Design as FreecodeCamp project
+- 🔒  [User Login System](https://github.com/vikaswakde/User_Login_System) - User Login System
+- 🎹  [Custom Piano Design](https://github.com/vikaswakde/password-score-check) - Simple Piano Design as FreecodeCamp project
 
 ## GitHub Stats
 

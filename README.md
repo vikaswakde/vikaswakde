@@ -37,10 +37,6 @@ Welcome to my little world!
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikaswakde&show_icons=true&count_private=true&hide=stars&theme=dark" alt="GitHub Contributions">
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikaswakde&layout=compact&theme=dark" alt="Top Languages">
 </p>
 

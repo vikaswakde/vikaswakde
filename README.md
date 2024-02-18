@@ -13,32 +13,6 @@ Welcome to my little world!
 - 🌟 Open-source enthusiast and contributor
 - 🚀 Passionate about Data Science and AI/ML
 
-## Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-Learning-brightgreen?style=flat-square&logo=python" alt="Python">
-    <img src="https://img.shields.io/badge/Flask-Learning-brightgreen?style=flat-square&logo=flask" alt="Flask">
-  
-  
-</p>
-
-## Projects
-
-- 🔒  [User Login System](https://github.com/vikaswakde/User_Login_System) - User Login System
-- 🎹  [Custom Piano Design](https://github.com/vikaswakde/password-score-check) - Simple Piano Design as FreecodeCamp project
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikaswakde" alt="Profile Views">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikaswakde&layout=compact&theme=dark" alt="Top Languages">
-</p>
 
 ## Let's Connect!
 

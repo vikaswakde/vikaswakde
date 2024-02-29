@@ -1,8 +1,3 @@
-<!-- Add a cool banner or header image -->
-<p align="center">
-  <img src="https://github.com/vikaswakde/FreeCodeCamp-Practice-Projects/assets/110342308/7003806a-69f3-4512-b1ca-502a29f3785a" alt="GIF">
-</p>
-
 # Hi there! 👋 I'm Vikas Wakde
 
 - I build stuff! 
@@ -27,6 +22,19 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-FF6C37?style=for-the-badge&logo=tailwindcss&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E) 
+
+
+<br>
+      
+## Projects
+
+
+
+### <a href="https://github.com/vikaswakde/Personalised_Study_Hub" target="_blank">Personalised Study Hub</a>
+
+https://github.com/vikaswakde/vikaswakde/assets/110342308/ec2250b4-2fbb-4a11-bda4-07b8228d5df0
+
+
 
 <br>
 

@@ -49,6 +49,24 @@ https://github.com/vikaswakde/vikaswakde/assets/110342308/ec2250b4-2fbb-4a11-bda
 
 <br>
 
+<br>
+
+### <a href="https://happy-birthday-agi.netlify.app/" target="_blank">Birthday Suprise Gif's Site</a>
+
+<div align='center'>
+
+
+https://github.com/vikaswakde/vikaswakde/assets/110342308/234e7406-3d8a-43ec-a96e-904806602682
+
+
+
+ </div>
+
+
+<br>
+
+
+
 ## Coding activity over the last 6 months
 
 [![wakatime](https://wakatime.com/badge/user/e0924061-b0ef-42bd-ae36-7f85d3424693.svg)](https://wakatime.com/@vikaswakde)

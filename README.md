@@ -42,12 +42,14 @@
 https://github.com/vikaswakde/vikaswakde/assets/110342308/ec2250b4-2fbb-4a11-bda4-07b8228d5df0
 
 
-<b>
+<br>
 
 ### <a href="https://github.com/vikaswakde/CourseHub" target="_blank">CourseHub</a>  Live: 👉  https://course-hub-smoky.vercel.app
 
-[![CourseHub](https://img.youtube.com/vi/TQz6MoFk9KQ/0.jpg)](https://www.youtube.com/watch?v=TQz6MoFk9KQ)
+<div align='center'>
 
+[![CourseHub](https://img.youtube.com/vi/TQz6MoFk9KQ/0.jpg)](https://www.youtube.com/watch?v=TQz6MoFk9KQ)
+</div>
 
 <br>
 

@@ -31,18 +31,11 @@
 
 
 
+
+
 <br>
       
 ## Projects
-
-
-
-### <a href="https://github.com/vikaswakde/Personalised_Study_Hub" target="_blank">Personalised Study Hub</a>
-
-https://github.com/vikaswakde/vikaswakde/assets/110342308/ec2250b4-2fbb-4a11-bda4-07b8228d5df0
-
-
-<br>
 
 ### <a href="https://github.com/vikaswakde/CourseHub" target="_blank">CourseHub</a>  Live: 👉  https://course-hub-smoky.vercel.app
 
@@ -52,6 +45,15 @@ https://github.com/vikaswakde/vikaswakde/assets/110342308/ec2250b4-2fbb-4a11-bda
 </div>
 
 <br>
+
+### <a href="https://github.com/vikaswakde/Personalised_Study_Hub" target="_blank">Personalised Study Hub</a>
+
+https://github.com/vikaswakde/vikaswakde/assets/110342308/ec2250b4-2fbb-4a11-bda4-07b8228d5df0
+
+
+<br>
+
+
 
 
 ### <a href="https://github.com/vikaswakde/chat-ui" target="_blank">Soical Media App Layout Design</a>

@@ -37,6 +37,15 @@
       
 ## Projects
 
+### <a href="https://github.com/vikaswakde/digitalHippo-0.4.2" target="_blank">DigitalHippo</a>  Live: 👉  https://favourite-pearle-vikasorg-1af1b74b.koyeb.app/
+
+<div align='center'>
+
+[![DigitalHippo Demo](https://img.youtube.com/vi/4PuLug0JUkM/0.jpg)](https://www.youtube.com/watch?v=4PuLug0JUkM)
+</div>
+
+<br>
+
 ### <a href="https://github.com/vikaswakde/CourseHub" target="_blank">CourseHub</a>  Live: 👉  https://course-hub-smoky.vercel.app
 
 <div align='center'>
@@ -68,18 +77,6 @@ https://github.com/vikaswakde/vikaswakde/assets/110342308/ec2250b4-2fbb-4a11-bda
 <br>
 
 <br>
-
-### <a href="https://happy-birthday-agi.netlify.app/" target="_blank">Birthday Suprise Gif's Site</a>
-
-<div align='center'>
-
-
-https://github.com/vikaswakde/vikaswakde/assets/110342308/234e7406-3d8a-43ec-a96e-904806602682
-
-
-
- </div>
-
 
 <br>
 

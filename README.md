@@ -40,16 +40,38 @@
 ### <a href="https://github.com/vikaswakde/digitalHippo-0.4.2" target="_blank">DigitalHippo</a>  Live: 👉  https://favourite-pearle-vikasorg-1af1b74b.koyeb.app/
 
 <div align='center'>
+<p>
+    A Full Stack Digital Marketplace to buy and share digital products.
+</p>
+
 
 [![DigitalHippo Demo](https://img.youtube.com/vi/4PuLug0JUkM/0.jpg)](https://www.youtube.com/watch?v=4PuLug0JUkM)
 </div>
 
 <br>
 
+
+
+### <a href="https://github.com/vikaswakde/breadit" target="_blank">Breadit</a>  Live: 👉  https://bredit-a-reddit-clone.vercel.app/
+
+<div align='center'>
+<p>
+    A Reddit Like Digital Social Media Platform to share ideas and views.
+</p>
+      
+[![Breadit Demo](https://img.youtube.com/vi/Vrm3Fy-AFzY/0.jpg)](https://www.youtube.com/watch?v=Vrm3Fy-AFzY)
+</div>
+
+<br>
+
+
 ### <a href="https://github.com/vikaswakde/CourseHub" target="_blank">CourseHub</a>  Live: 👉  https://course-hub-smoky.vercel.app
 
 <div align='center'>
-
+<p>
+    A Full stack Learning Managment site, create and purchase video courses.
+</p>
+      
 [![CourseHub](https://img.youtube.com/vi/TQz6MoFk9KQ/0.jpg)](https://www.youtube.com/watch?v=TQz6MoFk9KQ)
 </div>
 

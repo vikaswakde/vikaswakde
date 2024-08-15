@@ -37,46 +37,7 @@
       
 ## Projects
 
-### <a href="https://github.com/vikaswakde/SaaS-Landing-Page-1" target="_blank">Mordern Dark SaaS Landing Page</a>  Live: 👉  https://saas-landing-page-1.vercel.app/
 
-<div align='center'>
-<p>
-    This is a fully responsive SaaS Product Landing Page with some cool animations
-</p>
-
-
-[![SaaS Landing Page Demo](https://img.youtube.com/vi/mZ4EkFk6Yks/0.jpg)](https://youtu.be/mZ4EkFk6Yks)
-</div>
-
-<be>
-
-
-
-### <a href="https://github.com/vikaswakde/SaaS-Landing-Page-2" target="_blank">Modern & Responsive SaaS Landing Page</a>  Live: 👉  https://saas-landing-page-2.vercel.app/
-
-<div align='center'>
-<p>
-    A fully modern design converted to a pixel-perfect website
-</p>
-      
-[![SaaS Landing Page](https://img.youtube.com/vi/MOhea1lQ-J0/0.jpg)](https://youtu.be/MOhea1lQ-J0)
-</div>
-
-<br>
-
-
-
-### <a href="https://github.com/vikaswakde/breadit" target="_blank">Breadit</a>  Live: 👉  https://bredit-a-reddit-clone.vercel.app/
-
-<div align='center'>
-<p>
-    A Reddit-like Like Digital Social Media Platform to share ideas and views.
-</p>
-      
-[![Breadit Demo](https://img.youtube.com/vi/Vrm3Fy-AFzY/0.jpg)](https://www.youtube.com/watch?v=Vrm3Fy-AFzY)
-</div>
-
-<br>
 
 
 

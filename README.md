@@ -38,11 +38,11 @@
 ## Projects
 
 
-### [Bolmitra - Your AI communication Compaion](https://vicraft.vercel.app/)
+### [Bolmitra - Your AI communication companion](https://bolmitra.live/)
 
 <div align="center">
-  <a href="https://https://vicraft.vercel.app/" target="_blank">
-            <img src="https://github.com/user-attachments/assets/b86ee41e-ee9e-4d72-a229-dd03ec406a97" alt="Screenshot" style="max-width:100%;">
+  <a href="https://https://bolmitra.live/" target="_blank">
+            <img src="https://github.com/user-attachments/assets/55660507-22d0-46bd-b1f1-d704ffffbc48" alt="Screenshot" style="max-width:100%;">
   </a>
 </div>
 

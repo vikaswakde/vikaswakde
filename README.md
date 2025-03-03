@@ -8,6 +8,7 @@
 - 👨‍💻 I am a Full Stack Developer with good experience in TypeScript, React, Nextjs, & TailwindCSS. I have also worked on Python, & Node.js, I am also working on my skills in DevOps, and I can be a good all-around fit for your team.
 - 🌟 Open-source enthusiast and contributor
 - 🚀 Passionate about Data Science and AI/ML
+- I am very excited about AI and building products using SOTA models
 
 <br>
 

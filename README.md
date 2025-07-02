@@ -48,6 +48,17 @@
 </div>
 
 
+### [Pocket AI - A beautiful collection of Smart AI Models](https://pocketai.site/)
+
+<div align="center">
+  <a href="https://https://pocketai.site/" target="_blank">
+            <img src="https://github.com/user-attachments/assets/77d5dbef-b076-466b-9c68-c2990fcd7aa0" alt="Screenshot" style="max-width:100%;">
+  </a>
+</div>
+
+
+
+
 ### [ViCrafts Reusable UI Components Library](https://vicraft.vercel.app/)
 
 <div align="center">

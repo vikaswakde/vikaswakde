@@ -12,9 +12,23 @@
   </a>
 </p>
 
+
+
 # Hi there! 👋 I'm Vikas Wakde
 
-- I build stuff! 
+- I build stuff!
+
+
+<div align="center">
+  <a href="https://commit-history.com/vikaswakde">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/vikaswakde?theme=dark" />
+      <img alt="VikasWakde's commit history" src="https://commit-history.com/embed/vikaswakde" />
+    </picture>
+  </a>
+</div>
+
+
 
 ## About Me
 
@@ -48,8 +62,6 @@ const information = {
 
 <img
     src="https://github-readme-streak-stats.herokuapp.com?user=vikaswakde&date_format=M%20j%5B%2C%20Y%5D&theme=github_dark&hide_border=true" width="100%" />
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikaswakde&theme=github_dark" width="100%" />
 
 
 ## Projects
